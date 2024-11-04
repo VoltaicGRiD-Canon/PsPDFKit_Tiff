@@ -1,3 +1,10 @@
+# PsPDFKit Tiff
+
+Simple repository for testing the functionality of TIFF files in the PsPDFKit library.
+
+`set PUBLIC_URL=https://localhost:3000 && npm run build`
+`serve -s build`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
